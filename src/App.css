@@ -1,0 +1,143 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100;200;300;400;500;600;800;900&display=swap');
+
+body {
+  font-family: 'Outfit', sans-serif;
+  background-color: rgb(15, 23, 42);
+}
+
+.main_font {
+  font-weight: 700;
+  color: #e2e8f0;
+  font-size: 43px;
+}
+
+.third_main1{
+  color: #e2e8f0;
+  font-size: 18px;
+}
+
+.third_main2{
+  color: #e2e8f0;
+  font-size: 15px;
+  font-weight: 600;
+}
+
+.second_main {
+  font-weight: 700;
+  font-size: 20px;
+  color: #8898af;
+}
+
+.third_main {
+  font-size: 19px;
+  color: #8898af;
+}
+
+.third_main3 {
+  font-size: 19px;
+  color: #e2e8f0;
+}
+
+.third_main4{
+  font-size: 19px;
+  color: #e2e8f0;
+}
+
+.third_main4:hover{
+  font-size: 19px;
+  color: #56d5cc;
+}
+
+.third_main3:hover{
+  color: #56d5cc;
+}
+
+.paragraph {
+  color: #e2e8f0;
+}
+
+.nav_link {
+  text-decoration: none !important;
+  color: #e2e8f0 !important;
+  cursor: pointer;
+}
+
+.nav_icon {
+  width: 1rem;
+  height: 3px;
+  background-color: #64748b;
+  margin-right: 10px;
+  margin-top: 10px;
+  transition: 0.2s ease-in-out;
+}
+
+a:hover .nav_icon {
+  width: 2rem;
+}
+
+.item_size {
+  font-size: 15px;
+  color: #8898af;
+}
+
+.react_icon {
+  font-size:
+    25px;
+  border-radius: 15px;
+}
+
+
+
+.card_summary {
+  background-color: rgb(15, 23, 42);
+  border: none;
+  border-radius: 10px;
+  transition: 0.3s ease-in-out;
+}
+
+.card_summary:hover {
+  background-color: rgba(30, 41, 59, .5);
+  padding: 15px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 3px #667a99;
+}
+
+.paragraph1{
+  font-size: 13px;
+  color: #e2e8f0;
+}
+
+.company{
+  color: #e2e8f0;
+  font-size: 14px;
+}
+
+.btn_skill{
+  border-radius: 2rem;
+  font-size: 14px;
+  color: #56d5cc !important;
+  background-color: rgba(45,212,191,.1);
+  box-shadow: none !important;
+}
+
+.paragraph{
+  font-size: 14px;
+  color: #8898af;
+}
+
+@media screen and (min-width : 768px) {
+  .data {
+    position: fixed !important;
+  }
+}
+
+@media screen and (max-width : 767px) {
+  .data {
+    position: initial !important;
+  }
+}
+
+.paragraph_skill{
+  font-size: 18px;
+  color: #8898af;
+}

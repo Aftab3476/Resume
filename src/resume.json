@@ -1,0 +1,132 @@
+{
+  "personal" : {
+    "name": "Md Aftab Alam",
+    "tech": "Front End Developer (Reactjs)",
+    "aboutus": "I specialize in utilizing Front End developing build modern web applications.",
+    "aboutus1": "I have expertise in designing and implementing APIs, managing server-side logic, integrating frontend and backend components, and optimizing application performance",
+    "email": "",
+    "contact": ""
+  },
+  "about": [
+    "Software Engineer possessing Comprehensive 2 years of experience as IT Professional",
+    "1+ years of experience as Node Js Developer",
+    "Hands on experience developing web-based applications with Node Js, Express in specific with React Js framework & Redux library.",
+    "Experience on Cross Platform Server & Client-Server side applications design and development using Javascript language",
+    "Experience on ORACLE, MySQL, MongoDB & SQL Server concepts. Also DB Design, DB normalization and writing SQL queries."
+  ],
+  "socialMedia": [
+    {
+      "name": "github",
+      "link": "https://github.com/codeincrypt",
+      "icon": "fa-github"
+    },
+    {
+      "name": "linkedin",
+      "link": "https://www.linkedin.com/in/codeincrypt",
+      "icon": "fa-linkedin-square"
+    },
+    {
+      "name": "instagram",
+      "link": "https://www.instagram.com/karthikswarnkar",
+      "icon": "fa-instagram"
+    },
+    {
+      "name": "attatchment",
+      "link": "https://drive.google.com/file/d/1IL5SgLvlhJNnD2sZiNN8i_v1915OQ1Aw/view?usp=drive_link",
+      "icon": "fa-paperclip"
+    }
+  ],
+  "workExperience" : [
+    {
+      "position" : "Node Js & Blockchain Developer (React Js)",
+      "organisation" : "Hashcash Consultants",
+      "date" : "AUG 2021 - PRESENT",
+      "summary" : [
+        "Created & Implemented RESTful API for Blockchain Exchange services",
+        "Creating detailed functional specifications, work-flow diagrams & relevant documentation.",
+        "Planning, Designing, Implementing and maintenance of API count & rate limit based applications",
+        "Developed a support system in React & Node Js for generating issues tickets",
+        "Developed Newsletter (Subscriber) Marketing Web Application in React, Node Js & MySQL",
+        "Developed Application, Server & Logs monitoring in React & Node Js"
+      ],
+      "technology" : [
+        "Node Js", "Web3", "Ethereum", "React Js", "Express", "MySQL", "Oracle", "Ubuntu", "Git", "Bitbuket", "Jira", "Apache", "Crypto"
+      ]
+    },
+    {
+      "position" : "Full Stack Developer (MERN Stack)",
+      "organisation" : "EZYONE Digital Systems Pvt. Ltd",
+      "date" : "NOV 2019 - JULY 2021",
+      "summary" : [
+        "Developed the frontend in React Js using REST API built in Node Js which handles around 30K inventory system merchant users.",
+        "Work on Paytm, Razorpay & PayU Payment Gateway.",
+        "Work on DMT & UPI Payment System, Recharge & Bill Payment API",
+        "Developed a support system in React & Node Js for generating issues tickets"
+      ],
+      "technology" : [
+        "Node Js", "React Js", "Express", "Socket.io", "MySQL", "CentOS", "Git", "Apache"
+      ]
+    }
+  ],
+  "projects" : [
+    {
+      "name" : "Image Processing",
+      "summary" : ["Resize your images, either JPEG or PNG images. Serve high-quality images in the right size to reduce page weight and load time."],
+      "technology" : ["React Js", "Netlify"]
+    },
+    {
+      "name" : "Resume (Portfolio)",
+      "summary" : ["Created a Resume portfolio responsive website using React Js and deployed in Netlify using CI/CD"],
+      "technology" : ["React Js", "Netlify"]
+    },
+    {
+      "name" : "ChatApp (Project)",
+      "summary" : ["A Chat Application built in MERN Stack"],
+      "technology" : ["Node Js", "Express", "React Js", "Socket.io", "MySQL", "Ubuntu", "Apache"]
+    },
+    {
+      "name" : "E-Commerce (Project)",
+      "summary" : ["An E-commerce project built in MERN Stack with Real time data built on Socket.io"],
+      "technology" : ["Node Js", "Express", "React Js", "Socket.io", "MySQL", "Ubuntu", "Apache"]
+    }
+  ],
+  "skills": [
+    {"name" :"Blockchain", "details":"Web3, Ethereum, Stellar, Cardano, Algorand, Bitcoin & More Cryptocurrencies"},
+    {"name" :"Cryptography", "details":"Public key encryption, Private key encryption, Hashing"},
+    {"name" :"Programming Languages", "details":"Javascript, Node Js (Server Side), Redux, PHP, Socket.io, Blockchain, Cryptocurrency Network, Web3"},
+    {"name" :"UI Web Technologies", "details" :"HTML, CSS, JavaScript, ES6, Bootstrap, Material UI, React Bootstrap"},
+    {"name" :"Databases", "details":"MySQL, MongoDB, Oracle DB"},
+    {"name" :"Version Controls", "details":"Git, Github, Bitbucket"},
+    {"name" :"Frameworks / Library", "details":"Codeigniter (MVC), React Js, Redux"},
+    {"name" :"Web / Application Servers", "details":"Apache, HTTP Web Server."},
+    {"name" :"Cloud Platform", "details":"Dedicated Ubuntu / CentOs Linux Server."},
+    {"name" :"IDE Editor", "details":"Visual Studio Code, Sublime Text3, Notepad++, Atom, Bracket"}
+  ],
+  "education" : [
+    {
+      "degree" :"Bachelor's in Computer Application",
+      "college" :"BNMU - Purnia, Bihar",
+      "year" :"July 2015 to July 2018"
+    },
+    {
+      "degree" :"Higher Secondary (12th Pass) in Science",
+      "college" :"BSEB - Purnia, Bihar",
+      "year" :"June 2013 to June 2015"
+    },
+    {
+      "degree" :"Secondary (10th)",
+      "college" :"BSEB - Purnia, Bihar (Hindi, English, Math, Science, Social Science, Sanskrit)",
+      "year" :"March 2012 to March 2013"
+    }
+  ],
+  "language" : [
+    {
+      "name" :"Hindi",
+      "level" :"Proficient"
+    },
+    {
+      "name" :"English",
+      "level" :"Intermediate"
+    }
+  ]
+}
